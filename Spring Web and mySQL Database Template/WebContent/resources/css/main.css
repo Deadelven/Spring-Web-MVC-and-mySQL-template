@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+.formtable {padding 10px;
+	border: 1px solid red;
+	width: 400px;
+}
+
+input[type=text] {
+	width: 100px
+}
+
+input[type=string] {
+	width: 100px
+}
+
+input[type=integer] {
+	width: 100px
+}
+
+table.people {
+	padding: 20px;
+	border: 1px solid red;
+}
